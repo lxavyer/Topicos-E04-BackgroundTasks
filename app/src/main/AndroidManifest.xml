@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
 
     package="br.ufmg.coltec.topicos_e04_backgroundtasks">
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
